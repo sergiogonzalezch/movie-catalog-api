@@ -1,0 +1,21 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "year": 2014,
+      "genre": "Sci-Fi",
+      "rating": 9.0
+    },
+    {
+      "id": 3,
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "year": 2009,
+      "genre": "Sci-Fi",
+      "rating": 9.5
+    }
+  ],
+  "next_id": 4
+}
